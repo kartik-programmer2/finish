@@ -1,0 +1,15 @@
+header
+{
+    scroll-behavior: smooth;
+    font-family: 'Charis SIL', serif;
+}
+.ml-3
+{
+    cursor: pointer;
+    color: #555;
+}
+.mr-5
+{
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+}

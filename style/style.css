@@ -1,0 +1,7 @@
+/* THIS UNIVERSAL TAG FOR ALL WEBSITE CONTENT HAVE 0% MARGIN & PADDING BOXSIZING IS BORDER-BOX FONT FAMILY IS SANS SIREF */
+*{
+    margin:0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: 'Anek Malayalam', sans-serif;
+}

@@ -1,0 +1,23 @@
+.gallery
+{
+    box-shadow: 30px 10px 10px #000;
+}
+.gallery img
+{ 
+    opacity: 0.8;
+    margin-top: 100px;
+    height: 320px;
+}
+.gallery img:hover
+{
+    opacity: 1.0;
+}
+.q img
+{
+    border: 10px solid #fff;
+    display: inline;
+}
+.n 
+{
+    width: 390px;
+}
